@@ -14,17 +14,18 @@ To execute the code (with node.js):
 -It is required to be installed
     (Verify installation) 
 
-    ```bash
-    # Verify installation
+```bash
+ # Verify installation
     $ node -v
-    ```   
-    If it is not installed, it can be installed from nodejs.org
+```
+      
+If it is not installed, it can be installed from nodejs.org
 
 -In terminal, run the command
 
-    ```bash
+```bash
     $ node name-archive.js
-    ```   
+```
 
 ## Explanation 
 - this solution use 2 arrays, one for the non zeros and one for the zeros
